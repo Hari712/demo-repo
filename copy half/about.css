@@ -1,0 +1,477 @@
+.about{
+    width:100%;
+    height: 500px;
+    position: relative;
+}
+.about1{
+    width:100%;
+    height: 700px;
+    position: relative;
+}
+.about2{
+    width:100%;
+    height: 500px;
+    position: relative;
+    background-color:  #e8eee8; 
+}
+.secabout{
+    position: absolute;
+    top: 10%;
+    left:5%;
+}
+.secabout1{
+    position: absolute;
+    top: 5%;
+    left:5%;
+}
+.secabout2{
+    position: absolute;
+    top: 5%;
+    left:5%;
+}
+.secabout2 h2 {
+    margin-top: 5%; 
+}
+.secabout2 h2 span{
+    border-top:2px solid #23a823;
+
+    padding-top: 10px;
+}
+.aboutimg{
+    width:90%;
+    height: auto;
+    position: absolute;
+    left:0;  
+    top:0;
+}
+.aboutcontain h1{
+    position: absolute;
+    top:20%;
+    left:5%;
+  
+}
+
+#secwave {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top:20%;
+    bottom: 0;
+
+    overflow:hidden;
+  }
+  /* #secwave::before {
+   content:"";
+   position:absolute;
+   top:60%;
+   left:0%;
+   right:50%;
+   bottom:-5%;
+   background:rgb(200, 243, 214);
+   border-radius:4000% 2000% 0 0;
+  }
+  #secwave::after {
+    content:"";
+    position:absolute;
+    top:30%;
+    left:30%;
+    right:-3%;
+    bottom:-5%;
+    background:rgb(200, 243, 214);
+    border-radius:1500% 200% 0 0;
+   } */
+.button1{
+    color: white;
+    background: #23a823;
+    border: #23a823 1px solid;
+    border-radius: 25px ;
+    margin-left: 5%;
+    width:25%;
+    padding: 10px;
+   outline: none;
+}
+
+.button1:focus{
+    outline:none !important;
+    box-shadow:2px 2px 10px #23a823;
+  }
+.seccontain1{
+    position: absolute;
+    top: 15%;
+    left:5%;
+  }
+  .sect{
+    width:100%;
+  height: 400px;
+  position: relative;
+  }
+  .seccontain2{
+    position: absolute;
+    top: 15%;
+    left:5%;
+  }
+  .sect1{
+    width:100%;
+  height: 600px;
+  position: relative;
+  }
+  .sect2{
+    width:100%;
+  height: 1000px;
+  position: relative;
+  }
+
+.card-title{
+    font-size: 32px;
+    font-family:  'Times New Roman', Times, serif;
+}
+.card-title strong span{
+    border-top:2px solid #23a823;
+
+    padding-top: 5%;
+}
+.card-title1{
+    font-size:14px;
+    margin-bottom: 1%;
+    font-family:  'Times New Roman', Times, serif;
+}
+.card-title2{
+    margin:0;
+    margin-bottom: 2%;
+    font-size:16px;
+}
+.card-text1{
+        font-size: 10px;
+        margin-top: 10%;
+}
+.card-text{
+    font-size: 14px;
+    margin-top: 3%;
+}
+.card{
+    border-bottom:2px solid #23a823;
+
+    padding: 10px;
+}
+.card-body1{
+    margin:20%;
+    width:100%;
+    float:left;
+}
+.bunch-icon{
+    width:100%;
+    height:100%;
+    color: #23a823;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+  .bunch-icon1{
+    width:100%;
+    height:100%;
+    color:yellowgreen;
+    margin-left: 40%;
+    margin-right:40%;
+  }
+  .bunch-icon2{
+    width:100%;
+    height:100%;
+    color: purple;
+    margin-left: 35%;
+  }
+  hr.solid {
+    border-top: 1px solid #23a823;
+   width:100%;
+   
+  }
+  .heading{
+    font-size: 28px;
+    width: 200px;
+  }
+  .heading span{
+    border-top:2px solid #23a823;
+    padding-top: 5%;
+    
+  }
+  .text{
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    font-size: 28px;
+    width: 200px;
+  }
+  .text span{
+    border-top:2px solid #23a823;
+    padding-top: 5%;
+  }
+  .text1{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 12px;
+    text-align: left;
+    width: 200px;
+  }
+  .textsect{
+    position: absolute;
+    top: 0;
+    left: 5%;
+    font-size: 28px;
+    width: 200px;
+  }
+  .textsect span{
+    border-top:2px solid #23a823;
+    padding-top: 5%;
+  }
+  .sliderbtn{
+    position: absolute;
+    top: 80%;
+    left: 15%;
+    font-size: 28px;
+    background-color: transparent;
+   border: none;
+  }
+  #sliderbg{
+    position: absolute;
+    top:10%;
+    left:32%;
+    width: 67%;
+    height: 40%;
+    background: linear-gradient(90deg, rgba(200,243,214,1) 60%, rgba(237,241,175,1) 100%);
+  }
+  .card{
+    position: absolute;
+    /* display: flex;
+    flex-direction: column; */
+    margin-top: 20px;
+    margin-left: 10%;
+    width:62%;
+    height: 250px;
+    box-shadow:1px 1px 5px #23a823;
+  }
+  .card-img{
+      margin-top:5%;
+      margin-left:25%;
+      margin-right: 25%;
+      max-width:50%;
+      max-height:50%;
+      width:auto;
+      height:auto;
+  }
+  .card-title3{
+    text-align: center;
+    
+    font-size: 24px;
+    font-family:  'Times New Roman', Times, serif;
+  }
+  .card-subtitle{
+  text-align: center;
+    font-size: 16px;
+    font-family:  'Times New Roman', Times, serif;
+  }
+  .card-subtitle1{
+    text-align: left;
+      font-size: 16px;
+      font-family:  'Times New Roman', Times, serif;
+    }
+  .icons{
+      margin-top:5%;
+      margin-left: 33%;
+      margin-right: 30%;
+  }
+  #icon{
+      margin-right: 11%;
+      margin-left:0 ;
+  }
+  .card1 {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    margin-top: 5%;
+    margin-left: 10px;
+    width:70%;
+    height: 200px;
+    box-shadow:1px 1px 5px #23a823;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+.img-square-wrapper{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 5%;
+    align-items: center;
+  }
+  .bunch-img{
+      max-width:100%;
+      max-height: 100%;
+     
+      float: left;
+  }
+  .card-body2{
+    font-size: 14px;
+    margin-top:10%;
+    float: right;
+    text-align: left;
+    max-width: 50%;
+  }
+ .card-title4{
+    text-align: left;
+    
+    font-size: 24px;
+    font-family:  'Times New Roman', Times, serif;
+ }
+ .card-link{
+    text-align: left;
+    border-bottom:2px solid #23a823;
+    margin-top:20px;
+    font-size: 16px;
+    color: #23a823;
+    font-family:  'Times New Roman', Times, serif;
+ }
+ .historyhead{
+     width: 100%;
+     height: 5%;
+     text-align: center;
+     
+     
+ }
+ .historyhead h1 span{
+    border-top:2px solid #23a823;
+    padding-top: 10px;
+ }
+ #one{
+     content: "";
+    position: absolute;
+  top:32%;
+  left: 45%;
+  color: black;
+  font-size: 70px;
+  opacity: 0.3;
+  margin-left: 20px;
+ }
+ #two{
+    content: "";
+   position: absolute;
+ top:42%;
+ overflow-wrap: inherit;
+ left: 60%;
+ color: black;
+ font-size: 70px;
+ opacity: 0.3;
+ margin-left: 20px;
+}
+#three{
+    content: "";
+   position: absolute;
+ top:62%;
+ overflow-wrap: inherit;
+ left: 45%;
+ color: black;
+ font-size: 70px;
+ opacity: 0.3;
+ margin-left: 20px;
+}
+#four{
+    content: "";
+   position: absolute;
+ top:72%;
+ overflow-wrap: inherit;
+ left: 60%;
+ color: black;
+ font-size: 70px;
+ opacity: 0.3;
+ margin-left: 20px;
+}
+#hr1{
+    width:6%;
+    position: absolute;
+    left: 49%;
+    top:40%;
+    height: 1px;
+    background-color: #23a823;
+    border: none;
+
+}
+#hr2{
+    width:6%;
+    position: absolute;
+    left: 55%;
+    top:50%;
+    height: 1px;
+    background-color: #23a823;
+    border: none;
+
+}
+#hr3{
+    width:6%;
+    position: absolute;
+    left: 49%;
+    top:70%;
+    height: 1px;
+    background-color: #23a823;
+    border: none;
+
+}
+#hr4{
+    width:6%;
+    position: absolute;
+    left: 55%;
+    top:80%;
+    height: 1px;
+    background-color: #23a823;
+    border: none;
+
+}
+.vl {
+    border-left: 1px solid green;
+    height: 100%;
+    position: absolute;
+    top:30%;
+    left:55%;
+  }
+  .topic1{
+      position: absolute;
+      top:34%;
+      right:52%;
+      text-align: right;
+      width: 15%;
+  }
+  .toph2{
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+
+  }
+  .topp{
+      font-size: 12px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .topic2{
+    position: absolute;
+    top:45%;
+    left:62%;
+    text-align: left;
+    width: 15%;
+}
+.topic3{
+    position: absolute;
+    top:65%;
+    right:52%;
+    text-align: right;
+    width: 15%;
+}
+.topic4{
+    position: absolute;
+    top:75%;
+    left:62%;
+    text-align: left;
+    width: 15%;
+}

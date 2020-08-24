@@ -1,0 +1,19 @@
+portfolio / featured projects / 3 hrs
+	  / all projects / 4 hrs
+
+about us / who we are / 2 hrs
+	 / our history / 4 hrs
+	 / How we work / 2 hrs
+	 / meet our team / 3 hrs
+	 / join us / 2 hrs
+
+
+/portfolio/header
+	starttime- 10.30 AM -11.34 AM 
+	  /featured projects - 11.40 AM - 1.40 PM
+			       2.50 PM 	-6.05 PM
+	  /all projects - 
+			searching/test
+				 pagination 6.10 - 6.30
+			cards done  7.15PM
+				10.30 AM - 1.30 PM
